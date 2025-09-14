@@ -13,3 +13,5 @@ Futuro programador
 
 Mais comandos
 O melhor programador do país
+
+Se ligue no canal do Teomewhy, meu professor em programação e dados
